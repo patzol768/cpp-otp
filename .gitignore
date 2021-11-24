@@ -1,0 +1,19 @@
+# file types
+*.o
+*.a
+*.so
+*.code-workspace
+
+# folders
+**/.vscode/
+**/.deps/
+
+# named executables
+**/cotp_test
+**/QrCodeGeneratorDemo
+
+# test results
+test/*.svg
+
+# giteye
+/.project
