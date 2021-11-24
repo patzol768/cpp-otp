@@ -83,7 +83,7 @@ Create a QR code for the URI in svg format:
 	auto totp_svg = totp_qr.get_svg();
 ```
 
-![TOTP sample QR](/assets/totp.svg)
+<img src="/assets/totp.svg" width="200" height="200"/>
 
 Add some scaled decorations to the QR code:
 
@@ -115,8 +115,7 @@ Add some scaled decorations to the QR code:
 	hotp_qr.set_decoration(decoration);
 	auto hotp_svg = hotp_qr.get_svg();
 ```
-
-![HOTP sample QR](/assets/hotp.svg)
+<img src="/assets/hotp.svg" width="229" height="264"/>
 
 Check out the test file for more.
 
