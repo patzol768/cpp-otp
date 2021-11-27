@@ -24,7 +24,7 @@ release: CCFLAGS += -O2 -std=c++11
 
 all: release
 
-INCPATH += -I.
+INCPATH += -Isrc
 
 # Linker
 #LDFLAGS = -shared -rdynamic -Wl,-init,init_lib
