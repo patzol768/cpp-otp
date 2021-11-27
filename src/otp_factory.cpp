@@ -7,7 +7,7 @@
  *
  */
 
-#include "otp_factory.hpp"
+#include "cotp/otp_factory.hpp"
 
 #include <stdexcept>
 

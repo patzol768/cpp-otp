@@ -9,8 +9,8 @@
 
 #pragma once
 
-#include "cotp.hpp"
-#include "otp_uri.hpp"
+#include "cotp/cotp.hpp"
+#include "cotp/otp_uri.hpp"
 
 #include <functional>
 #include <string>

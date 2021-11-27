@@ -7,7 +7,7 @@
  *
  */
 
-#include "qr_code.hpp"
+#include "cotp/qr_code.hpp"
 
 #include <memory>
 #include <sstream>

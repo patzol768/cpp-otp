@@ -7,7 +7,7 @@
  *
  */
 
-#include "otp_uri.hpp"
+#include "cotp/otp_uri.hpp"
 
 #include <exception>
 #include <map>

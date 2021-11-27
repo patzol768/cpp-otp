@@ -9,10 +9,10 @@
 #include <openssl/evp.h>
 #include <openssl/hmac.h>
 
-#include "cotp.hpp"
-#include "qr_code.hpp"
-#include "otp_factory.hpp"
-#include "otp_uri.hpp"
+#include "cotp/cotp.hpp"
+#include "cotp/qr_code.hpp"
+#include "cotp/otp_factory.hpp"
+#include "cotp/otp_uri.hpp"
 
 using namespace std;
 

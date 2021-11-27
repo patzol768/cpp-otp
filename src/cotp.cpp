@@ -7,8 +7,8 @@
  *
  */
 
-#include "cotp.hpp"
-#include "otp_factory.hpp"
+#include "cotp/cotp.hpp"
+#include "cotp/otp_factory.hpp"
 
 #include <cmath>
 #include <fstream>
