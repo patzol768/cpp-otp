@@ -9,6 +9,7 @@
 
 #include "cotp/otp_uri.hpp"
 
+#include <cstdint>
 #include <exception>
 #include <map>
 #include <regex>
